@@ -18,9 +18,9 @@ I am a computer and media teacher.
 |------:|---------|
 | Information Technology | Computer systems and how they are used in business |
 |Design Techniques | Design principles, photography, and Photoshop |
-|Video and Sound | Video and Sound production |
+|Video and Sound | Video and sound production |
 |Web Design | HTML and CSS |
-|Game Design | Game Theory and coding |
+|Game Design | Game theory and coding |
 |Computer Science | The science of computers |
 
 </details>
